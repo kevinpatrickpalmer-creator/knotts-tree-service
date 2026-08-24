@@ -1,12 +1,12 @@
 /*
   Real customer reviews from facebook.com/kknottllc (source: "Facebook", the
   default if omitted) and the K. Knott, LLC Google Business listing
-  (source: "Google" — the 5.0-star / 25-review listing at Highway T,
-  Excello, MO; there is a second, unrelated-looking "K. Knott LLC Tree
+  (source: "Google": the 5.0-star / 25-review listing at Highway T,
+  Excello, MO. There is a second, unrelated-looking "K. Knott LLC Tree
   Services and Stump Grinding" listing at 3.0 stars that appears to be a
-  duplicate GBP and should NOT be used as a source — see project README).
+  duplicate GBP and should NOT be used as a source. See project README.)
   To add a new one: copy an object below, fill in name/date/text, done.
-  No build step — just save and refresh.
+  No build step, just save and refresh.
 */
 window.KNOTTS_REVIEWS = [
   { name: "Shelby Ayers", date: "August 2026", text: `Knott's Tree Service is fast, reliable, and friendly! They do great work at a great price! Highly recommend!` },

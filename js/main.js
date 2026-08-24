@@ -41,7 +41,7 @@
 
       var caption = document.createElement('figcaption');
       var source = review.source || 'Facebook';
-      caption.textContent = '— ' + review.name + (review.date ? ', ' + review.date : '') + ' · ' + source + ' review';
+      caption.textContent = review.name + (review.date ? ', ' + review.date : '') + ' · ' + source + ' review';
 
       card.appendChild(stars);
       card.appendChild(quote);
