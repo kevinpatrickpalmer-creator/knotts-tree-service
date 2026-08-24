@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kevinpatrickpalmer-creator.github.io/knotts-tree-service/sitemap.xml
